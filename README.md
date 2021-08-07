@@ -1,5 +1,6 @@
-# The most useful hacking tool you'll find
-It has useful inbuilt tools
+# The most useful Cloning tool you'll find
+Just login using Facebook details or Token then start Cloning
+
 😈 apt update
 
 😈 apt upgrade -y
