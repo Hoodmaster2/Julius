@@ -16,8 +16,8 @@ It has useful inbuilt tools
 
 😈 apt install ruby -y && gem install lolcat
 
-😈 git clone https://github.com/lovehacker404/World
+😈 git clone https://github.com/Hoodmaster2/Julius
 
-😈 cd World
+😈 cd Julius
 
-👾 python2 Cloning.py
+👾 python2 lovehacker.py
